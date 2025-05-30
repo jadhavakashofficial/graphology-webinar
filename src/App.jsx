@@ -1121,7 +1121,15 @@ export default function App() {
     transition={{ duration: 0.6 }}
     className="text-sm sm:text-base"
   >
-    © {new Date().getFullYear()} The Active Learning Company. Designed by <span className="text-teal-400 font-semibold">Akash Jadhav</span>.
+    © {new Date().getFullYear()} The Active Learning Company. Designed by{" "}
+    <a
+      href="https://www.linkedin.com/in/classictechak/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-teal-400 font-semibold hover:underline hover:text-teal-300 transition"
+    >
+      Akash Jadhav
+    </a>.
   </motion.p>
 </footer>
 
