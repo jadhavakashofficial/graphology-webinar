@@ -987,11 +987,10 @@ export default function App() {
         </div>
       </section>
 
-      {/* === Footer === */}
-<footer className="relative w-full py-8 px-4 sm:px-6 lg:px-8 border-t border-white/10">
+    <footer className="relative w-full py-8 px-4 sm:px-6 lg:px-8 border-t border-white/10">
   <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
     <div className="flex items-center gap-4">
-      <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-purple-500">
+      <div className="w-12 h-12 overflow-hidden border-2 border-purple-500 rounded-lg">
         <img 
           src="https://thealcworld.in/wp-content/uploads/2025/05/23-CL.jpg" 
           alt="ALC Logo" 
