@@ -492,7 +492,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-br from-teal-400 to-purple-500 rounded-2xl w-full h-full transform rotate-3 blur-lg opacity-30"></div>
                 <div className="bg-gradient-to-br from-teal-500/20 to-purple-600/20 rounded-2xl p-1">
                   <img 
-                    src="https://thealcworld.in/wp-content/uploads/2025/06/b008c9db-e55e-47e5-b6e7-65d50723323d-scaled.jpeg" 
+                    src="https://thealcworld.in/store/wp-content/uploads/2025/06/IMG_6792-e1749300666514.jpg" 
                     alt="Nirav Pakai" 
                     className="w-full max-w-md rounded-2xl object-cover border-4 border-black mx-auto"
                   />
@@ -563,26 +563,26 @@ export default function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               {
-                img: "https://thealcworld.in/wp-content/uploads/2025/06/91995856-3E48-4D39-AEA4-D2D45E0091B8.jpeg",
+                img: "https://thealcworld.in/store/wp-content/uploads/2025/06/91995856-3E48-4D39-AEA4-D2D45E0091B8.jpeg",
                 name: "Akash Jadhav",
                 review: "The seminar completely changed how I view handwriting. I can now understand people's personalities just by looking at their signatures!",
                 stars: 5
               },
               {
-                img: "https://thealcworld.in/wp-content/uploads/2025/06/IMG_5352-scaled.jpg",
+                img: "https://thealcworld.in/store/wp-content/uploads/2025/06/IMG_5352-scaled.jpg",
                 name: "Araman Salunkhe",
                 review: "Nirav's insights into signature analysis helped me improve my professional relationships. Highly recommended!",
                 stars: 5
               },
               {
-                img: "https://thealcworld.in/wp-content/uploads/2025/06/IMG_5646.jpg",
-                name: "Pratik",
+                img: "https://thealcworld.in/store/wp-content/uploads/2025/06/IMG_5650.jpg",
+                name: "Avinash",
                 review: "This webinar opened my eyes to how much our handwriting reveals. The live analysis session was mind-blowing!",
                 stars: 4
               },
               {
-                img: "https://thealcworld.in/wp-content/uploads/2025/06/IMG_5650.jpg",
-                name: "Avniash",
+                img: "https://thealcworld.in/store/wp-content/uploads/2025/06/IMG_5646.jpg",
+                name: "Pratik",
                 review: "As an HR professional, this seminar gave me a powerful new tool for understanding candidates beyond their resumes.",
                 stars: 5
               }
@@ -648,15 +648,15 @@ export default function App() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                src: "https://thealcworld.in/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.42.05-AM.mp4",
+                src: "https://thealcworld.in/store/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.42.05-AM.mp4",
                 title: "Career Transformation"
               },
               {
-                src: "https://thealcworld.in/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.41.48-AM.mp4",
+                src: "https://thealcworld.in/store/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.41.48-AM.mp4",
                 title: "Personal Growth Journey"
               },
               {
-                src: "https://thealcworld.in/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.37.15-AM.mp4",
+                src: "https://thealcworld.in/store/wp-content/uploads/2025/06/WhatsApp-Video-2025-05-31-at-11.37.15-AM.mp4",
                 title: "Improved Relationships"
               }
             ].map((video, index) => (
@@ -784,7 +784,7 @@ export default function App() {
               <div className="bg-gradient-to-br from-teal-500/20 to-purple-600/20 rounded-3xl p-1 shadow-2xl">
                 <div className="bg-black/70 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10">
                   <img 
-                    src="https://thealcworld.in/wp-content/uploads/2025/06/Screenshot-2025-06-04-at-3.14.05 AM.png" 
+                    src="https://thealcworld.in/store/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-10.02.44 PM.png" 
                     alt="Graphology Certificate" 
                     className="w-full h-auto object-cover rounded-2xl"
                   />
@@ -987,14 +987,15 @@ export default function App() {
         </div>
       </section>
 
-    <footer className="relative w-full py-8 px-4 sm:px-6 lg:px-8 border-t border-white/10">
+      {/* === Footer === */}
+<footer className="relative w-full py-8 px-4 sm:px-6 lg:px-8 border-t border-white/10">
   <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
     <div className="flex items-center gap-4">
-      <div className="w-12 h-12 overflow-hidden border-2 border-purple-500 rounded-lg">
+      <div className="w-12 h-12 rounded-lg overflow-hidden border-2 border-purple-500 flex items-center justify-center">
         <img 
-          src="https://thealcworld.in/wp-content/uploads/2025/05/23-CL.jpg" 
+          src="https://thealcworld.in/store/wp-content/uploads/2025/06/cropped-ALC-Logo.png" 
           alt="ALC Logo" 
-          className="w-full h-full object-contain"
+          className="w-full h-full object-contain p-1"
         />
       </div>
       <div>
