@@ -235,7 +235,7 @@ export default function App() {
         
         {/* CTA */}
         <motion.a
-          href="https://thealcworld.in/courses-2/graphology-signature-analysis-webinar/"
+          href="https://thealcworld.in/store/product/handwriting-signature-analysis/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-8 sm:px-10 py-4 bg-gradient-to-r from-blue-600 via-indigo-500 to-purple-600 font-semibold text-white rounded-full shadow-lg cursor-pointer text-lg group"
