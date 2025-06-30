@@ -906,7 +906,7 @@ export default function App() {
                 <p className="text-gray-300">June 15, 2025 • 6:00 PM IST • Online via Zoom</p>
               </div>
               <motion.a
-                href="https://thealcworld.in/courses-2/graphology-signature-analysis-webinar/"
+                href="https://thealcworld.in/store/product/handwriting-signature-analysis/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-gradient-to-r from-blue-500 to-purple-600 font-bold text-white rounded-full shadow-lg text-lg group"
